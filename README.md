@@ -1,8 +1,15 @@
 # Pixel Art Grid Editor
 
+## Explanation
+
 In this project you will use HTML, CSS, and JavaScript DOM Scripting to change the background color of cells within an 8x8 grid to create a pixel art editor.
 
-# Explanation
+You will need to draw upon your understanding of writing JavaScript functions, registering event listeners, and calling event handlers based on a user's interaction with the web page.
+
+Below you will see several sections to help you in your work on this project.
+
+- The [Project Hints](#project-hints) provides short helper explanations to lead you in right direction of the project stories
+- The [Stories](#stories) outlines the features using natural language. Make sure to attempt the first story, and move on only after you complete each one in turn.
 
 # Project Hints
 
